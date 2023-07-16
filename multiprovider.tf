@@ -13,7 +13,7 @@ terraform {
 
 provider "github" {
   # Configuration options
-  token = "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"
+  token = "$$$$$$$$$$$$$$$$$$$$$$$$$$"
 }
  /* resource "github_repository" "example_3" {
     name        = "thirdExample"
